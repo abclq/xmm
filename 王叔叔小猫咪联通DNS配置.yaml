@@ -4,7 +4,7 @@
 # 机场订阅
 proxy-providers:
   Airport1:
-    url: "https://juhe-491.pages.dev/666"
+    url: "放订阅地址"
     type: http
     interval: 86400
     health-check:
